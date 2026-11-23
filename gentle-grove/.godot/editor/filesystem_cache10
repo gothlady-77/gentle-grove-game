@@ -1,16 +1,16 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1795452998
+::res://::1795453418
 icon.svg::CompressedTexture2D::5421911779478961738::1795452960::1795452999::1::::<><><>0<>0<>9a6ee2855d692279c093cf101b33f9a5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://assets/::1795452960
 ::res://assets/game/::1795452960
-::res://assets/game/Characters/::1795452960
+::res://assets/game/Characters/::1795452999
 basic_charakter_actions.png::CompressedTexture2D::6135253065078812021::1795452960::1795452999::1::::<><><>0<>0<>f525a6e551fc4e5afd808429797543ba<>res://.godot/imported/basic_charakter_actions.png-74e8222d415163f58eec08499bd230e4.ctex::
 basic_charakter_spritesheet.png::CompressedTexture2D::2421186648252259819::1795452960::1795452999::1::::<><><>0<>0<>dfb49e92e88ef489f9334ba9c2b05af0<>res://.godot/imported/basic_charakter_spritesheet.png-7afca9d07d289e30fe6c43ab1ee80016.ctex::
 egg_and_nest.png::CompressedTexture2D::5990437686240065301::1795452960::1795452999::1::::<><><>0<>0<>c9f2067ef4679c85259fac28dec9adec<>res://.godot/imported/egg_and_nest.png-3870a5c78c5881ad62c50ed99c80d902.ctex::
 free_chicken_sprites.png::CompressedTexture2D::1281155659554108531::1795452960::1795452999::1::::<><><>0<>0<>6ab0ea788e0c16d1bb3061f985ee24f1<>res://.godot/imported/free_chicken_sprites.png-3959c7dc8e0f02e79eb63d3432badf5f.ctex::
 free_cow_sprites.png::CompressedTexture2D::3873069278832952604::1795452960::1795452999::1::::<><><>0<>0<>e77b5e951ecbe2b84de1cf2e556ac11b<>res://.godot/imported/free_cow_sprites.png-81516939cd51ac1af04ce8c8ae7f83e1.ctex::
 tools.png::CompressedTexture2D::1049469085952461856::1795452960::1795452999::1::::<><><>0<>0<>642865131cb35d120560cd79a1744d6e<>res://.godot/imported/tools.png-2e63d474670b1d011ecf85f9f25e4609.ctex::
-::res://assets/game/Objects/::1795452960
+::res://assets/game/Objects/::1795452999
 Basic_Furniture.png::CompressedTexture2D::4461423117771013731::1795452960::1795452999::1::::<><><>0<>0<>a6ab4e1aa65a6997e6e38f9fa7666946<>res://.godot/imported/Basic_Furniture.png-c60bb21bc80eb0707860586ee0dc52c0.ctex::
 Basic_Grass_Biom_things.png::CompressedTexture2D::730160549780451733::1795452960::1795452999::1::::<><><>0<>0<>fc73741119acd9d7737216cfb66aac60<>res://.godot/imported/Basic_Grass_Biom_things.png-55af2c0b5ff876331615f863723053ef.ctex::
 Basic_Plants.png::CompressedTexture2D::2363273800659929136::1795452960::1795452999::1::::<><><>0<>0<>a45197f169210f47182c164913dca892<>res://.godot/imported/Basic_Plants.png-92646f18f870d2f170bfa09a65962d9f.ctex::
@@ -21,7 +21,7 @@ Free_Chicken_House.png::CompressedTexture2D::6831461263274255908::1795452960::17
 Paths.png::CompressedTexture2D::8145341401789752396::1795452960::1795452999::1::::<><><>0<>0<>a7e656f5aadc9b3e1504f7446a8fc237<>res://.godot/imported/Paths.png-b10a8e03b86f27e94fc8d3af792b712b.ctex::
 Simple_Milk_and_grass_item.png::CompressedTexture2D::1886563331873721213::1795452960::1795452999::1::::<><><>0<>0<>df827a647a6cf7f29279d00d30fc9d79<>res://.godot/imported/Simple_Milk_and_grass_item.png-d88f0b101ea32ec83df0ab69b34bb64c.ctex::
 Wood_Bridge.png::CompressedTexture2D::1135296847334962143::1795452960::1795452999::1::::<><><>0<>0<>dc9b0daae99f89c54b9f74e19b34aa04<>res://.godot/imported/Wood_Bridge.png-c2476c35946d33d781a2269c166e90d8.ctex::
-::res://assets/game/Tilesets/::1795452960
+::res://assets/game/Tilesets/::1795452999
 Bitmask references 1.png::CompressedTexture2D::1153898000105766250::1795452960::1795452999::1::::<><><>0<>0<>ff91b4a8203ed75e93994cd15636f0fa<>res://.godot/imported/Bitmask references 1.png-46c5aaa9188ed75b856a6eac67c50c61.ctex::
 Bitmask references 2.png::CompressedTexture2D::7987087936985449040::1795452960::1795452999::1::::<><><>0<>0<>cb38109f0b088a942328a5cae0b3f757<>res://.godot/imported/Bitmask references 2.png-8fc92b3f72e43b538e144791ac171e83.ctex::
 Doors.png::CompressedTexture2D::63950825781212462::1795452960::1795452999::1::::<><><>0<>0<>b8e1d47f2fab0eecaab9df8f4d279feb<>res://.godot/imported/Doors.png-3e8671e615241b715b0405b410439a07.ctex::
@@ -36,6 +36,8 @@ Water.png::CompressedTexture2D::9022249395840570348::1795452960::1795452999::1::
 Wooden_House.png::CompressedTexture2D::1915876441887637785::1795452960::1795452999::1::::<><><>0<>0<>7885846874801338619819ecbd646d69<>res://.godot/imported/Wooden_House.png-dcada51686ef93d74ba9c8aeb19b3e02.ctex::
 Wooden_House_Roof_Tilset.png::CompressedTexture2D::7435614898310895142::1795452960::1795452999::1::::<><><>0<>0<>0d3b875f80bc5ec2c49193ac6cd9a14b<>res://.godot/imported/Wooden_House_Roof_Tilset.png-ad18c3df12454b5a8567e8078e7df691.ctex::
 Wooden_House_Walls_Tilset.png::CompressedTexture2D::6040913387928222812::1795452960::1795452999::1::::<><><>0<>0<>1b0ffb3500bc40ebaf3751bca99f15ef<>res://.godot/imported/Wooden_House_Walls_Tilset.png-a00cdd518519ed682754f2ae89389598.ctex::
-::res://Tilesets/::1795452960
-game_tile_set.tres::TileSet::7632646835898414831::1795452960::0::1::::<><><>0<>0<><>::uid://d1spentikn86c::::res://assets/game/Tilesets/Water.png
-test_scene_tilemap.tscn::PackedScene::8112395803769610327::1795452960::0::1::::<><><>0<>0<><>::uid://d1spentikn86c::::res://assets/game/Tilesets/Water.png
+::res://scenes/::1795453438
+::res://scenes/test/::1795453478
+test_scene_tilemap.tscn::PackedScene::2049540757066124455::1795453478::0::1::::<><><>0<>0<><>::
+::res://Tilesets/::1795453635
+game_tile_set.tres::TileSet::1028587464901274211::1795453635::0::1::::<><><>0<>0<><>::
